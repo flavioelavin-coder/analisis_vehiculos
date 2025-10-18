@@ -10,11 +10,11 @@ vehicles_us.csv
 - Python
 - Pandas, NumPy  
 - Plotly  
-- Jupyter Notebook  
+- Streamlit
 
 ## 📈 Resultados
-- Identificación de productos con mayor margen de ganancia.  
-- Tendencias de ventas según hora y género del comprador.  
-- Creación de dashboard interactivo con Plotly.  
+- Identificación de productos con mayor margen de ganancia
+- Tendencias de ventas   
+- Creación de dashboard interactivo con Plotly
 
 (https://proyecto-sprint-7-2-6f8b.onrender.com/#vehicle-types-by-manufacturer)
