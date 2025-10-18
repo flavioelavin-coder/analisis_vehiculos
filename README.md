@@ -1,10 +1,10 @@
 # Análisis de ventas en vehiculos 🛒
 
 ## 🧩 Problema
-El objetivo de este proyecto es analizar las ventas de un marcas y tipos de vehiculos para identificar patrones de consumo y oportunidades de mejora en la gestión de inventario.
+El objetivo de este proyecto es analizar las ventas de marcas y tipos de vehiculos para identificar patrones de consumo y oportunidades de mejora.
 
 ## 📊 Dataset
-
+vehicles_us.csv 
 
 ## 🧠 Stack / Herramientas
 - Python
